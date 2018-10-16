@@ -27,21 +27,8 @@
 
 
 
-from Aditya Gautam to everyone:
-https://github.optum.com/fecompute/OCT-Firmware-Update
-from Aditya Gautam to everyone:
-https://github.optum.com/OSFI-Kubernetes/Meltdown-Specter-Patching
-from Aditya Gautam to everyone:
-chmod -R 744 /var/tmp/firmware/OCT-Firmware-Update/*
-
-
-ipmitool -H apslp0895lo.uhc.com -U admin bmc reset cold
 
 
 
-INC9010792--apslp0895--satya
-INC9010818--apslp0901--kishore
-INC9011524--apslp0897--satya
-INC9011565--apslp0899--Aditya
 
-/etc/chef/ohai/plugins
+
